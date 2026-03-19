@@ -5,3 +5,5 @@ This is an interactive dashboard exploring Netflix's content library, featuring 
 
 The dashboard can be viewed at the following link:
 https://public.tableau.com/views/NetflixContentdashboard/Netflixdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+The data was obtained from Kaggle: https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
